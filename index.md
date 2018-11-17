@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE" /> 
+<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE" />
+<META HTTP-EQUIV="Expires" CONTENT="-1" />
+<script language="JavaScript" type="text/javascript">
+var g_cacheBuster = "__rotmg_cb=1452042685";
+</script>
 
-You can use the [editor on GitHub](https://github.com/little-pump/j2i/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<style>
+body { margin: 0; padding: 0; overflow: hidden;
+background-color: #000; color: #fff; }
+:link { color: #ccf; }
+:visited { color: #fcf; }
+.footer { margin: 16px auto; width: 416px; }
+.footer .studio { float: left; margin-right: 24px; }
+.footer .studio.kabam { float: left; margin-top: 7px; }
+.footer .studio.last { margin-right: 0px; }
+.KBPAY_IframeDialogCurtain {
+  position: absolute;
+  width: 2000px;
+  top:0;
+  left:0;
+  background-color:#000;
+  -moz-opacity:0.3;
+  opacity:.30;
+  filter:alpha(opacity=30);
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+}
+.KBPAY_IframeDialog {
+  position: absolute;
+}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 11;
+// Minor version of Flash required
+var requiredMinorVersion = 2;
+// Minor version of Flash required
+var requiredRevision = 0;
+// -----------------------------------------------------------------------------
+// -->
+</script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/little-pump/j2i/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<body>
+<center>
+<object width="800" height="600" data="aye.swf"></object>
+</center>
+</body>
+</html>
